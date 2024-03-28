@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "course_title": "Course 1",
+    "course_details": "Description for Course 1",
+    "cover": "https://i.ibb.co/qrzq2r0/pexels-jorge-jesus-614117.jpg",
+    "price": 49.99,
+    "credit": 3
+  },
+  {
+    "id": 2,
+    "course_title": "Course 2",
+    "course_details": "Description for Course 2",
+    "cover": "https://i.ibb.co/jkDsh0h/pexels-pixabay-270404.jpg",
+    "price": 69.99,
+    "credit": 4
+  },
+  {
+    "id": 3,
+    "course_title": "Course 3",
+    "course_details": "Description for Course 3",
+    "cover": "https://i.ibb.co/5v8FLX2/pexels-danny-meneses-943096-1.jpg",
+    "price": 59.99,
+    "credit": 3
+  },
+  {
+    "id": 4,
+    "course_title": "Course 4",
+    "course_details": "Description for Course 4",
+    "cover": "https://i.ibb.co/z66m0fH/pexels-markus-spiske-360591.jpg",
+    "price": 49.99,
+    "credit": 3
+  },
+  {
+    "id": 5,
+    "course_title": "Course 5",
+    "course_details": "Description for Course 5",
+    "cover": "https://i.ibb.co/HX55rj5/pexels-markus-spiske-1089440.jpg",
+    "price": 69.99,
+    "credit": 4
+  },
+  {
+    "id": 6,
+    "course_title": "Course 6",
+    "course_details": "Description for Course 6",
+    "cover": "https://i.ibb.co/8PrW7NZ/pexels-christina-morillo-1181271.jpg",
+    "price": 59.99,
+    "credit": 3
+  },
+  {
+    "id": 7,
+    "course_title": "Course 7",
+    "course_details": "Description for Course 7",
+    "cover": "https://i.ibb.co/5v8FLX2/pexels-danny-meneses-943096-1.jpg",
+    "price": 49.99,
+    "credit": 3
+  },
+  {
+    "id": 8,
+    "course_title": "Course 8",
+    "course_details": "Description for Course 8",
+    "cover": "https://i.ibb.co/ZG2Gq4b/pexels-markus-spiske-965345.jpg",
+    "price": 69.99,
+    "credit": 4
+  },
+  {
+    "id": 9,
+    "course_title": "Course 9",
+    "course_details": "Description for Course 9",
+    "cover": "https://i.ibb.co/QdyZ4w8/pexels-luis-gomes-546819.jpg",
+    "price": 59.99,
+    "credit": 3
+  },
+  {
+    "id": 10,
+    "course_title": "Course 10",
+    "course_details": "Description for Course 10",
+    "cover": "https://i.ibb.co/GQr0pDn/pexels-designecologist-1779487.jpg",
+    "price": 49.99,
+    "credit": 3
+  },
+  {
+    "id": 11,
+    "course_title": "Course 11",
+    "course_details": "Description for Course 11",
+    "cover": "https://i.ibb.co/sv5DvHz/pexels-pixabay-414628.jpg",
+    "price": 69.99,
+    "credit": 4
+  },
+  {
+    "id": 12,
+    "course_title": "Course 12",
+    "course_details": "Description for Course 12",
+    "cover": "https://i.ibb.co/0mwrkQZ/pexels-polina-tankilevitch-4443160.jpg",
+    "price": 59.99,
+    "credit": 3
+  }
+]
